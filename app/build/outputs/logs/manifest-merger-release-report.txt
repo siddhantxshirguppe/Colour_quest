@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:1:1
+	package
+		ADDED from AndroidManifest.xml:2:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:1:11
+	android:versionCode
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.VIBRATE
+ADDED from AndroidManifest.xml:4:2
+	android:name
+		ADDED from AndroidManifest.xml:4:19
+application
+ADDED from AndroidManifest.xml:6:5
+MERGED from com.google.android.gms:play-services-ads-lite:10.2.4:23:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:19:5
+MERGED from com.android.support:support-v4:24.0.0:25:5
+MERGED from com.google.android.gms:play-services-base:10.2.4:18:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:19:5
+MERGED from com.android.support:support-v4:24.0.0:25:5
+MERGED from com.google.android.gms:play-services-tasks:10.2.4:4:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:19:5
+MERGED from com.android.support:support-v4:24.0.0:25:5
+MERGED from com.google.android.gms:play-services-clearcut:10.2.4:18:5
+MERGED from com.google.android.gms:play-services-base:10.2.4:18:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:19:5
+MERGED from com.android.support:support-v4:24.0.0:25:5
+MERGED from com.google.android.gms:play-services-tasks:10.2.4:4:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:19:5
+MERGED from com.android.support:support-v4:24.0.0:25:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:19:5
+MERGED from com.android.support:support-v4:24.0.0:25:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:19:5
+MERGED from com.android.support:support-v4:24.0.0:25:5
+MERGED from com.google.android.gms:play-services-gass:10.2.4:4:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:19:5
+MERGED from com.android.support:support-v4:24.0.0:25:5
+	android:label
+		ADDED from AndroidManifest.xml:7:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:6:18
+	android:icon
+		ADDED from AndroidManifest.xml:8:9
+	android:theme
+		ADDED from AndroidManifest.xml:10:9
+	android:name
+		ADDED from AndroidManifest.xml:9:9
+activity#com.qolorquest.MainActivity
+ADDED from AndroidManifest.xml:11:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:13:13
+	android:name
+		ADDED from AndroidManifest.xml:12:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:15:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:16:17
+	android:name
+		ADDED from AndroidManifest.xml:16:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:17:17
+	android:name
+		ADDED from AndroidManifest.xml:17:27
+activity#com.qolorquest.DebugActivity
+ADDED from AndroidManifest.xml:20:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:20:49
+	android:name
+		ADDED from AndroidManifest.xml:20:19
+activity#com.qolorquest.Main2Activity
+ADDED from AndroidManifest.xml:21:4
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:21:44
+	android:name
+		ADDED from AndroidManifest.xml:21:14
+activity#com.qolorquest.MenuActivity
+ADDED from AndroidManifest.xml:22:4
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:22:43
+	android:name
+		ADDED from AndroidManifest.xml:22:14
+activity#com.qolorquest.HelpActivity
+ADDED from AndroidManifest.xml:23:4
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:23:43
+	android:name
+		ADDED from AndroidManifest.xml:23:14
+activity#com.qolorquest.AboutActivity
+ADDED from AndroidManifest.xml:24:4
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:24:44
+	android:name
+		ADDED from AndroidManifest.xml:24:14
+activity#com.qolorquest.GameActivity
+ADDED from AndroidManifest.xml:25:4
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:25:43
+	android:name
+		ADDED from AndroidManifest.xml:25:14
+activity#com.qolorquest.CountdownActivity
+ADDED from AndroidManifest.xml:26:4
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:26:48
+	android:name
+		ADDED from AndroidManifest.xml:26:14
+activity#com.qolorquest.OverActivity
+ADDED from AndroidManifest.xml:27:4
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:27:43
+	android:name
+		ADDED from AndroidManifest.xml:27:14
+activity#com.qolorquest.ScoresActivity
+ADDED from AndroidManifest.xml:28:4
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:28:45
+	android:name
+		ADDED from AndroidManifest.xml:28:14
+activity#com.qolorquest.HighscoresActivity
+ADDED from AndroidManifest.xml:29:4
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:29:49
+	android:name
+		ADDED from AndroidManifest.xml:29:14
+activity#com.qolorquest.HighexpActivity
+ADDED from AndroidManifest.xml:30:4
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:30:46
+	android:name
+		ADDED from AndroidManifest.xml:30:14
+uses-sdk
+INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
+MERGED from com.google.android.gms:play-services-ads:10.2.4:17:5
+MERGED from com.google.android.gms:play-services-ads-lite:10.2.4:22:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:17:5
+MERGED from com.android.support:support-v4:24.0.0:21:5
+MERGED from com.google.android.gms:play-services-base:10.2.4:17:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:17:5
+MERGED from com.android.support:support-v4:24.0.0:21:5
+MERGED from com.google.android.gms:play-services-tasks:10.2.4:3:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:17:5
+MERGED from com.android.support:support-v4:24.0.0:21:5
+MERGED from com.google.android.gms:play-services-clearcut:10.2.4:17:5
+MERGED from com.google.android.gms:play-services-base:10.2.4:17:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:17:5
+MERGED from com.android.support:support-v4:24.0.0:21:5
+MERGED from com.google.android.gms:play-services-tasks:10.2.4:3:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:17:5
+MERGED from com.android.support:support-v4:24.0.0:21:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:17:5
+MERGED from com.android.support:support-v4:24.0.0:21:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:17:5
+MERGED from com.android.support:support-v4:24.0.0:21:5
+MERGED from com.google.android.gms:play-services-gass:10.2.4:3:5
+MERGED from com.google.android.gms:play-services-basement:10.2.4:17:5
+MERGED from com.android.support:support-v4:24.0.0:21:5
+	tools:overrideLibrary
+		ADDED from com.android.support:support-v4:24.0.0:23:9
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.INTERNET
+ADDED from com.google.android.gms:play-services-ads-lite:10.2.4:19:5
+	android:name
+		ADDED from com.google.android.gms:play-services-ads-lite:10.2.4:19:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from com.google.android.gms:play-services-ads-lite:10.2.4:20:5
+	android:name
+		ADDED from com.google.android.gms:play-services-ads-lite:10.2.4:20:22
+activity#com.google.android.gms.ads.AdActivity
+ADDED from com.google.android.gms:play-services-ads-lite:10.2.4:25:9
+	android:configChanges
+		ADDED from com.google.android.gms:play-services-ads-lite:10.2.4:25:72
+	android:theme
+		ADDED from com.google.android.gms:play-services-ads-lite:10.2.4:25:182
+	android:name
+		ADDED from com.google.android.gms:play-services-ads-lite:10.2.4:25:19
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from com.google.android.gms:play-services-ads-lite:10.2.4:26:9
+	android:theme
+		ADDED from com.google.android.gms:play-services-ads-lite:10.2.4:26:92
+	android:name
+		ADDED from com.google.android.gms:play-services-ads-lite:10.2.4:26:19
+meta-data#com.google.android.gms.version
+ADDED from com.google.android.gms:play-services-basement:10.2.4:20:9
+MERGED from com.google.android.gms:play-services-basement:10.2.4:20:9
+MERGED from com.google.android.gms:play-services-basement:10.2.4:20:9
+MERGED from com.google.android.gms:play-services-basement:10.2.4:20:9
+MERGED from com.google.android.gms:play-services-basement:10.2.4:20:9
+MERGED from com.google.android.gms:play-services-basement:10.2.4:20:9
+MERGED from com.google.android.gms:play-services-basement:10.2.4:20:9
+MERGED from com.google.android.gms:play-services-basement:10.2.4:20:9
+	android:value
+		ADDED from com.google.android.gms:play-services-basement:10.2.4:20:66
+	android:name
+		ADDED from com.google.android.gms:play-services-basement:10.2.4:20:20
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from com.google.android.gms:play-services-base:10.2.4:19:9
+MERGED from com.google.android.gms:play-services-base:10.2.4:19:9
+	android:exported
+		ADDED from com.google.android.gms:play-services-base:10.2.4:19:146
+	android:theme
+		ADDED from com.google.android.gms:play-services-base:10.2.4:19:86
+	android:name
+		ADDED from com.google.android.gms:play-services-base:10.2.4:19:19

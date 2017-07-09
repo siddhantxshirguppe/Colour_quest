@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\pre-dexed\debug\classes-e48d264205819d37c4bf08e0bd320eb51478c6f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-fd672504c5d1edee0f411c8d0109a67d15553cce.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\pre-dexed\debug\classes-d582ad90dfb9032e5a0f25c166850e9f38cdbe77.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\pre-dexed\debug\classes-47902de1608ad5f3d6def3c52eb9624d3c40ff13.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\pre-dexed\debug\classes-0d6905e6b6eb6f430593a6f585637ffb0cbaf5e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIDCORP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-ebe780d27a8b485e7c57ab238ca7291d11747014.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\pre-dexed\debug\classes-667799ce5c1ae46dfa92dbf1b347e190b2732e42.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\pre-dexed\debug\classes-153344d37f62a203be67fd805b481e9a1bb37bdb.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\pre-dexed\debug\classes-6132272a38b34576944bf9c936d687fbb9e3b29d.jar" />
+    </item>
+    <item
+        jar="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="C:\Users\SIDCORP\AndroidStudioProjects\colour quest!\app\build\intermediates\pre-dexed\debug\classes-e2fa00f6beea8522a7ce79baf4829b070c3e496a.jar" />
+    </item>
+
+</items>

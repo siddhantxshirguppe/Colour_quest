@@ -1,0 +1,34 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	>
+	<LinearLayout
+		android:id="@+id/linear1"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:padding="8dp"
+		android:background="#9CCC65"
+		android:orientation="horizontal"
+		android:gravity="center_horizontal|center_vertical"
+		>
+		<TextView
+			android:id="@+id/textview1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:background="#FFF176"
+			android:text="THE AIM TO TO CORRECTLY GUESS AS MANY COLOURS  OF THE  GIVEN TEXT AS POSSIBLE IN THE GIVEN TIME LIMIT !
+
+DON'T BE CONFUSED BY THE COLOUR OF THE OPTIONS!
+ONLY THE TEXT IS IMPORTANT!
+
+THIS ASSOCIATION OF WORDS WITH COLOURS IS CAUSED BY 
+&quot;STROOPERS&quot; EFFECT!"
+			android:textSize="25sp"
+			android:textColor="#EF6C00"
+			/>
+	</LinearLayout>
+</LinearLayout>
+<!-- From: file:/C:/Users/SIDCORP/AndroidStudioProjects/colour%20quest!/app/src/main/res/layout/help.xml -->

@@ -1,0 +1,54 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	>
+	<LinearLayout
+		android:id="@+id/linear1"
+		android:layout_width="match_parent"
+		android:layout_height="250dp"
+		android:padding="8dp"
+		android:background="#FFE0B2"
+		android:orientation="horizontal"
+		android:gravity="center_vertical"
+		android:layout_gravity="center_horizontal|center_vertical"
+		>
+		<TextView
+			android:id="@+id/textview1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:background="#5C6BC0"
+			android:text="DEVELOPED BY: SIDEX
+SIDDHANT SHIRGUPPE
+NO FORM OF THIS ANDROID APPLICATION,WHETHER IN THE FORM OF LOGO OR INTELLECTUAL PROPERTY MAY BE PUBLICLY DISTRIBTED WITHOUT AN EXPLICIT CONSENT FROM THE DEVELOPER
+SIDCORP COLOUR QUEST \@
+ ALL RIGHTS RESERVED 
+"
+			android:textSize="12sp"
+			android:textStyle="bold"
+			android:textColor="#E6EE9C"
+			/>
+	</LinearLayout>
+	<LinearLayout
+		android:id="@+id/linear2"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:padding="8dp"
+		android:background="#C5CAE9"
+		android:orientation="horizontal"
+		>
+		<TextView
+			android:id="@+id/textview3"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:background="#BDBDBD"
+			android:text="ALSO CHECK OUT MY FIRST APP :EVCP!"
+			android:textSize="12sp"
+			android:textStyle="bold"
+			android:textColor="#000000"
+			/>
+	</LinearLayout>
+</LinearLayout>
